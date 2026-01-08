@@ -1,3 +1,3 @@
-module github.com/wikimedia/wikidata-scholarly-classifier
+module github.com/wikimedia-enterprise/wikidata-scholarly-classifier
 
 go 1.21
